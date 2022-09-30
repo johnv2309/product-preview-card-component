@@ -151,7 +151,7 @@ body {
 
 @media (max-width: 860px) {
   body {
-    grid-template-rows: 1fr 3rem;
+    grid-template-rows: 1fr 2rem;
   }
 
   .card {
