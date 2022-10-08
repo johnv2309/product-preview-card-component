@@ -15,8 +15,6 @@ This is a solution to the [Product Preview Card Component challenge on Frontend 
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The Challenge
@@ -28,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/solution-2.png)
+![](./images/solution.png)
 
 ### Links
 

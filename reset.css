@@ -44,7 +44,8 @@ h6 {
   overflow-wrap: break-word;
 }
 
+/* JS Frameworks
 #root,
 #__next {
   isolation: isolate;
-}
+} */

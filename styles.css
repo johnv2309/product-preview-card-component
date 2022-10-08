@@ -86,7 +86,6 @@ picture > img {
 }
 
 div {
-  /* outline: 1px solid red; */
   gap: 1rem;
   display: flex;
   flex-direction: column;
