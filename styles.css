@@ -1,7 +1,7 @@
 :root {
   --cyan: hsl(158, 36%, 37%);
   --light-cyan: hsl(154, 46%, 42%);
-  --dark-cyan: #285545;
+  --dark-cyan: hsl(159, 36%, 25%);
   --cream: hsl(30, 38%, 92%);
   --dark-blue: hsl(212, 21%, 14%);
   --dark-gray-blue: hsl(228, 12%, 48%);
@@ -126,10 +126,10 @@ button:hover {
   background-color: var(--dark-cyan);
 }
 
-@media (max-width: 375px) {
+@media (max-width: 600px) {
   main {
-    height: 600px;
-    width: 340px;
+    height: 575px;
+    width: 300px;
   }
 
   article {
@@ -157,6 +157,7 @@ button:hover {
   }
 
   picture > img {
+    width: 100%;
     border-radius: 8px 8px 0 0;
   }
 
